@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+httpx
+jinja2
+pyppeteer
+opencv-python
+numpy
+openai
+python-dotenv # Added for loading .env files
+selenium # Added for browser automation
+# webdriver-manager # Removed as WebDriver is now handled directly
+requests # Added for HTTP requests to Jina API
