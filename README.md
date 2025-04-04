@@ -8,10 +8,17 @@
 
 
 ### 卡片生成效果
-![卡片效果](./static/p4.png)
-![卡片效果](./static/p2.png)
-![卡片效果](./static/p3.png)
-![卡片效果](./static/p1.png)
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-between;">
+  <img src="./static/p4.png" alt="卡片效果" style="width: 24%; min-width: 200px;" />
+  <img src="./static/p2.png" alt="卡片效果" style="width: 24%; min-width: 200px;" />
+  <img src="./static/p3.png" alt="卡片效果" style="width: 24%; min-width: 200px;" />
+  <img src="./static/p1.png" alt="卡片效果" style="width: 24%; min-width: 200px;" />
+</div>
+
+### 演示视频
+[![智能卡片工坊演示视频](https://i0.hdslb.com/bfs/archive/7bfe9a5f3a1752bdc053733c3a6372c5a31f2e56.jpg@640w_400h_1c.webp)](https://www.bilibili.com/video/BV1kQRSY9EzQ/)
+
+[观看B站演示视频](https://www.bilibili.com/video/BV1kQRSY9EzQ/)
 
 ## 功能特点
 
