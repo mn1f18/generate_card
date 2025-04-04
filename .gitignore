@@ -37,7 +37,7 @@ venv.bak/
 
 # 项目输出文件
 output/
-static/
+# static/
 *.png
 *.pdf
 *.html
