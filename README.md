@@ -16,8 +16,6 @@
 </div>
 
 ### 演示视频
-[![智能卡片工坊演示视频](https://i0.hdslb.com/bfs/archive/7bfe9a5f3a1752bdc053733c3a6372c5a31f2e56.jpg@640w_400h_1c.webp)](https://www.bilibili.com/video/BV1kQRSY9EzQ/)
-
 [观看B站演示视频](https://www.bilibili.com/video/BV1kQRSY9EzQ/)
 
 ## 功能特点
@@ -143,5 +141,5 @@ uvicorn main:app --reload
 
 如有任何问题或建议，请通过以下方式联系我们：
 
-- 邮箱：your.email@example.com
-- GitHub Issues：[提交问题](https://github.com/yourusername/smart-card-workshop/issues)
+- 邮箱：bard0wang@foxmail.com
+- GitHub Issues：[提交问题](https://github.com/Bald0Wang/Smart_Card_Workshop/issues)
