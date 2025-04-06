@@ -76,6 +76,16 @@ uv pip install -r app/requirements.txt
 
 在`tools`目录下创建一个`.env`文件，添加以下配置：
 
+ARK指的是火山平台，你需要完成两步可以得到你的可用api_key
+1. 创建api_key
+https://console.volcengine.com/ark/region:ark+cn-beijing/apiKey?apikey=%7B%7D
+
+2. 创建模型推理接入点，记得选择deepseekv3 0324版本
+https://console.volcengine.com/ark/region:ark+cn-beijing/endpoint?config=%7B%7D
+
+Jina api需要再下面的网页获取token，如果不用网页获取功能可以随便填一个key哦
+https://jina.ai/zh-CN/
+
 ```
 # ARK平台API密钥
 ARK_API_KEY="your_ark_api_key_here"
@@ -94,8 +104,7 @@ JINA_API_KEY="your_jina_api_key_here"
 source .venv/bin/activate
 
 # 启动应用
-cd app
-uvicorn main:app --reload
+uvicorn app.main:app --reload
 ```
 
 然后在浏览器中访问 `http://localhost:8000` 即可使用应用。
