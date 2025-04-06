@@ -64,7 +64,7 @@ pipx install uv
 
 ```bash
 # 克隆项目
-git clone https://github.com/yourusername/smart-card-workshop.git
+git clone https://github.com/datawhalechina/smart-card-workshop.git
 cd smart-card-workshop
 
 # 创建虚拟环境并安装依赖
