@@ -1,14 +1,9 @@
 
-# 基于开源的生成事件卡片测试
+# 基于开源的生成事件卡片测试 （仅作为测试使用）
 
 # 智能卡片工坊 (Smart Card Workshop)
 
 一款基于AI的内容转换工具，可以将文本、网页内容或HTML代码转换为精美的卡片图像。
-
-![智能卡片工坊界面](./static/image.png)
-
-## 应用截图
-
 
 
 ## 功能特点
@@ -115,33 +110,8 @@ uvicorn app.main:app --reload
 - Google Chrome浏览器 (用于Selenium渲染)
 - 网络连接 (用于API调用)
 
-## 许可证
 
-[Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)
-
-本项目采用CC BY-NC 4.0协议，您可以自由地：
-- 共享 — 在任何媒介以任何形式复制、发行本作品
-- 演绎 — 修改、转换或以本作品为基础进行创作
-
-惟须遵守下列条件：
-- 署名 — 您必须给出适当的署名，提供指向本许可协议的链接，同时标明是否对原始作品作了修改
-- 非商业性使用 — 您不得将本作品用于商业目的
-
-详细许可条款请查看[完整法律文本](https://creativecommons.org/licenses/by-nc/4.0/legalcode.zh-Hans)。
-
-## 贡献指南
-
-欢迎贡献代码、报告问题或提供改进建议。请遵循以下步骤：
-
-1. Fork本项目
-2. 创建您的特性分支 (`git checkout -b feature/amazing-feature`)
-3. 提交您的更改 (`git commit -m '添加一些很棒的功能'`)
-4. 将您的更改推送到分支 (`git push origin feature/amazing-feature`)
-5. 提交Pull Request
-
-## 联系方式
-
-如有任何问题或建议，请通过以下方式联系我们：
+## 原始开源项目的人员 联系方式  -本项目仅作为测试使用
 
 - 邮箱：bard0wang@foxmail.com
 - GitHub Issues：[提交问题](https://github.com/Bald0Wang/Smart_Card_Workshop/issues)
