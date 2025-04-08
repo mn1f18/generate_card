@@ -1,3 +1,6 @@
+
+# 基于开源的生成事件卡片测试
+
 # 智能卡片工坊 (Smart Card Workshop)
 
 一款基于AI的内容转换工具，可以将文本、网页内容或HTML代码转换为精美的卡片图像。
@@ -7,16 +10,6 @@
 ## 应用截图
 
 
-### 卡片生成效果
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-between;">
-  <img src="./static/p4.png" alt="卡片效果" style="width: 24%; min-width: 200px;" />
-  <img src="./static/p2.png" alt="卡片效果" style="width: 24%; min-width: 200px;" />
-  <img src="./static/p3.png" alt="卡片效果" style="width: 24%; min-width: 200px;" />
-  <img src="./static/p1.png" alt="卡片效果" style="width: 24%; min-width: 200px;" />
-</div>
-
-### 演示视频
-[观看B站演示视频](https://www.bilibili.com/video/BV1kQRSY9EzQ/)
 
 ## 功能特点
 
